@@ -11,4 +11,4 @@ run MAC-Edit.exe (32Bit Windows)
 
 
 IMPORTANT:
-Remember the actual MAC address, there no backup feature with "MAC-Edit.exe",
+Remember the actual MAC address, there is no backup feature with "MAC-Edit.exe",
