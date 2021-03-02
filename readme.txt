@@ -1,4 +1,4 @@
-build.bat will work only with Compiler:  Dev-C++ 4.9.9.*
+build.bat will work only with Dev-C++ 4.9.9.*
 
 
 run MAC-Edit.exe (32Bit Windows)
